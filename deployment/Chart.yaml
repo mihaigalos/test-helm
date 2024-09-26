@@ -1,0 +1,7 @@
+name: test-yaml
+type: application
+version: "1.0"
+appVersion: v1.0.0
+apiVersion: v1
+description: Helm chart for testing.
+
